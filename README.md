@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Salut, je suis Iheb Lashem !  
 
-<!--
-**IhebLashemDev/IhebLashemDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Développeur Full Stack passionné par la création d'applications web modernes et performantes. Je m'intéresse à toutes les étapes du développement, du design UI/UX jusqu'à la mise en production.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies que je pratique :
+- **Frontend** : React.js, Bootstrap, Tailwind CSS  
+- **Backend** : Node.js, Express.js  
+- **Base de données** : MongoDB, MySQL  
+- **Outils** : Git, GitHub  
+
+---
+
+🚀 **Projets en cours** : Je travaille sur des applications performantes et intuitives.  
+
+🌱 **En apprentissage** : Améliorer mes compétences pour devenir un expert Full Stack.
+
+### ⚡ Fun fact :  
+Je suis toujours prêt à apprendre de nouvelles technologies et à résoudre des défis techniques. 🚀  
+
+📫 **Contactez-moi** :  
+- (www.linkedin.com/in/iheb-lashem)  
+- [Email](mailto:iheblasshem@gmail.com)  
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tonnomgithub&show_icons=true&theme=radical)
