@@ -17,8 +17,7 @@
 
 🌱 **En apprentissage** : Améliorer mes compétences pour devenir un expert Full Stack.
 
-### ⚡ Fun fact :  
-Je suis toujours prêt à apprendre de nouvelles technologies et à résoudre des défis techniques. 🚀  
+⚡ Fun fact :  Je suis toujours prêt à apprendre de nouvelles technologies et à résoudre des défis techniques. 🚀  
 
 📫 **Contactez-moi** :  
 - (www.linkedin.com/in/iheb-lashem)  
