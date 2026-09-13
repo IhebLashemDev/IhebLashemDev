@@ -1,10 +1,11 @@
 <div align="center">
 
-# Iheb Lashem
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,14&height=180&section=header&text=Iheb%20Lashem&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer&descAlignY=55&descSize=18" />
 
-### Full-Stack Developer
+<br>
 
-Building modern web applications with a focus on **clean interfaces**, **practical solutions**, and **reliable backend systems**.
+### Building modern web applications with a focus on  
+**clean interfaces · practical solutions · reliable backend systems**
 
 <br>
 
@@ -22,7 +23,7 @@ Building modern web applications with a focus on **clean interfaces**, **practic
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Turning+ideas+into+working+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js;Turning+ideas+into+working+products" alt="Typing SVG" />
 
 </div>
 
