@@ -1,182 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Iheb%20Lashem&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Real-Time%20%26%20AI-Powered%20Web%20Platforms&descAlignY=55&descSize=18" width="100%" />
+<!-- ================= TOP ULTRA BANNER ================= -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=6,11,20,31,0&height=260&section=header&text=IHEB%20LASHEM&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=%E2%9E%A4%20FULL-STACK%20SYSTEMS%20ARCHITECT%20%7C%20CREATIVE%20ENGINEER&descAlignY=65&descSize=16&descColor=38bdf8" width="100%" />
 
-<a href="https://www.linkedin.com/in/iheb-lashem">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:iheblasshem@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://luxevault-uxal.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Project-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+<br>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=560&lines=Full-Stack+Engineer+%7C+Next.js+%26+Node.js;Real-Time+Systems+with+Socket.io;PostgreSQL+%2B+Prisma+%7C+MongoDB;Shipping+production+apps%2C+not+demos." alt="Typing SVG" />
+<!-- ================= 3D ISOMETRIC DEV HERO ================= -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" valign="middle" width="50%">
+      <img src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-working-on-logic-development-illustration-download-in-svg-png-gif-file-formats--backend-software-coding-programmer-profession-pack-people-illustrations-7740871.png" width="380" alt="3D Workstation" />
+    </td>
+    <td align="left" valign="middle" width="50%">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2000&pause=600&color=38BDF8&multiline=true&width=450&height=120&lines=%E2%96%B8+const+engineer+%3D+'Iheb+Lashem'%3B;%E2%96%B8+engineer.build('Mission-Critical+Apps')%3B;%E2%96%B8+engineer.stack(%5B'React'%2C+'Node'%2C+'Next'%5D)%3B;%E2%96%B8+engineer.status+%3D+'Scaling+Solutions%F0%9F%9A%80'%3B" alt="Terminal Typing" />
+      </a>
+      <br><br>
+      <p>
+        <a href="https://linkedin.com/in/iheb-lashem">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="38" height="38" alt="LinkedIn" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="mailto:iheblasshem@gmail.com">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="38" height="38" alt="Gmail" />
+        </a>
+        &nbsp;&nbsp;&nbsp;
+        <a href="https://github.com/IhebLashemDev">
+          <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="38" height="38" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+---
 
-## About Me
+<!-- ================= INTERACTIVE MAC OS TERMINAL ================= -->
+<table width="100%" bgcolor="#0d1117" style="border-radius: 12px; border: 1px solid #30363d;">
+  <tr>
+    <td style="padding: 12px 20px;">
+      <span style="color: #ff5f56; font-size: 18px;">●</span>&nbsp;
+      <span style="color: #ffbd2e; font-size: 18px;">●</span>&nbsp;
+      <span style="color: #27c93f; font-size: 18px;">●</span>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <code style="color: #8b949e; font-size: 13px;">iheb@lashem-macbook-pro:~ /core/profile.sh</code>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 10px 24px 24px 24px;">
+      <pre style="background: transparent; border: none; color: #c9d1d9; font-size: 14px; line-height: 1.6;">
+<span style="color: #58a6ff;">$</span> <span style="color: #79c0ff;">curl -s</span> https://api.iheblashem.dev/v1/profile | jq .
 
-I'm a full-stack developer from Tunisia who likes owning a product end to end — schema, API, real-time layer, and deployment. Across three internships I've shipped a live e-commerce platform with real-time chat and order tracking, a hospital scheduler that cut no-shows by 40%, and an AI-guided learning app for kids. Information Systems Development graduate (ISET Tataouine, 2025) — Best Final Year Project award.
-
-- 🔭 Currently building **LuxeVault**, a real-time luxury e-commerce platform (Next.js + Socket.io + Neon Postgres)
-- 🌱 Deepening my knowledge of **system design** and **AI-integrated products**
-- 💬 Ask me about **Next.js, real-time architecture (Socket.io), or Prisma/PostgreSQL**
-- 📫 Reach me at **iheblasshem@gmail.com**
-- ⚡ Fun fact: I'd rather ship something small and real than perfect and unfinished
-
-<br/>
-
-## Tech Stack
-
-<table width="100%">
-<tr>
-<td valign="top" width="25%">
-
-**Frontend**
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-
-</td>
-<td valign="top" width="25%">
-
-**Backend & Realtime**
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/RBAC-4B5563?style=flat-square" /><br/>
-<img src="https://img.shields.io/badge/OpenRouter%20%2F%20LLM_APIs-10A37F?style=flat-square&logo=openai&logoColor=white" />
-
-</td>
-<td valign="top" width="25%">
-
-**Database & Cloud**
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black" /><br/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-
-</td>
-<td valign="top" width="25%">
-
-**Tools & Workflow**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=googleanalytics&logoColor=white" />
-
-</td>
-</tr>
+{
+  <span style="color: #7ee787;">"name"</span>: <span style="color: #a5d6ff;">"Iheb Lashem"</span>,
+  <span style="color: #7ee787;">"title"</span>: <span style="color: #a5d6ff;">"Full Stack Software Engineer"</span>,
+  <span style="color: #7ee787;">"location"</span>: <span style="color: #a5d6ff;">"Global / Remote"</span>,
+  <span style="color: #7ee787;">"code_velocity"</span>: <span style="color: #a5d6ff;">"High Performance & Clean Architecture"</span>,
+  <span style="color: #7ee787;">"specializations"</span>: [
+    <span style="color: #a5d6ff;">"Reactive Web Interfaces (React / Next.js)"</span>,
+    <span style="color: #a5d6ff;">"High-Throughput Microservices (Node.js / Express)"</span>,
+    <span style="color: #a5d6ff;">"Relational & Document Data Engineering (MongoDB / MySQL)"</span>
+  ],
+  <span style="color: #7ee787;">"status"</span>: <span style="color: #38bdf8;">"Open for high-impact engineering opportunities ⚡"</span>
+}
+      </pre>
+    </td>
+  </tr>
 </table>
 
-<br/>
+<br>
 
-## Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🏆 LuxeVault — Luxury E-Commerce
-Real-time marketplace with isolated admin/customer roles, live support chat, and instant order notifications.
-
-`Next.js` `Socket.io` `PostgreSQL` `Prisma` `Vercel` `Render`
-
-[**Live Demo →**](https://luxevault-uxal.vercel.app/) &nbsp;|&nbsp; Built during my internship at Codveda Technologies
-
-</td>
-<td width="50%" valign="top">
-
-### 🚗 Carthage Cars — Rental Marketplace
-Car rental platform with multi-criteria filtering and direct WhatsApp booking.
-
-`Next.js` `Tailwind CSS` `WhatsApp API`
-
-[**Live Demo →**](https://carthage-cars.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📖 Noor Quran — Quran & Adhkar Hub
-RTL Arabic reading app with offline audio and prayer-time calculations.
-
-`Next.js` `RTL / Arabic UI` `PWA`
-
-[**Live Demo →**](https://noor-quran-khaki.vercel.app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Clinic OS — Smart Medical Scheduling
-MERN scheduling system with conflict detection — cut no-shows by 40%.
-
-`Node.js` `Express` `MongoDB` `Socket.io`
-
-Corporate project · WowSoft
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## GitHub Stats
-
+<!-- ================= 3D / MODERN TECH STACK MATRIX ================= -->
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=IhebLashemDev&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhebLashemDev&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,31&height=40&section=header&text=%E2%97%86%20ENGINEERING%20ARSENAL%20%E2%97%86&fontSize=18&fontColor=38bdf8" width="100%" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebLashemDev&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=IhebLashemDev&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
+<table border="0" cellpadding="8" cellspacing="0">
+  <tr align="center">
+    <td><b>FRONTEND ARCHITECTURE</b></td>
+    <td><b>BACKEND & SYSTEM DESIGN</b></td>
+    <td><b>DATABASE & DEVOPS</b></td>
+  </tr>
+  <tr align="center">
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js&theme=dark" /></a><br><br>
+      <a href="#"><img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css&theme=dark" /></a>
+    </td>
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark" /></a><br><br>
+      <a href="#"><img src="https://skillicons.dev/icons?i=postman,redis,linux,nginx&theme=dark" /></a>
+    </td>
+    <td>
+      <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker&theme=dark" /></a><br><br>
+      <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" /></a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-<br/>
+<br><br>
 
+<!-- ================= METRICS BENTO SHOWCASE ================= -->
 <div align="center">
 
-### Let's build something that has to actually work.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,31&height=40&section=header&text=%E2%97%86%20LIVE%20SYSTEM%20METRICS%20%E2%97%86&fontSize=18&fontColor=38bdf8" width="100%" />
 
-<a href="https://www.linkedin.com/in/iheb-lashem">
-  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:iheblasshem@gmail.com">
-  <img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br><br>
 
-<br/><br/>
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=IhebLashemDev&show_icons=true&theme=radical&hide_border=true&title_color=38bdf8&icon_color=00F2FE&text_color=94a3b8&bg_color=0b0f19" width="410" alt="Iheb's Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebLashemDev&theme=radical&hide_border=true&background=0b0f19&ring=38bdf8&fire=00F2FE&currStreakLabel=00F2FE&stroke=38bdf8" width="410" alt="Iheb's Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhebLashemDev&layout=compact&theme=radical&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0b0f19" width="410" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=IhebLashemDev&theme=react-dark&hide_border=true&bg_color=0b0f19&color=38bdf8&line=38bdf8&point=00F2FE" width="410" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://komarev.com/ghpvc/?username=IhebLashemDev&label=Profile%20Views&color=8b5cf6&style=flat-square" />
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<br><br>
+
+<!-- ================= 3D TROPHY CABINET ================= -->
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=IhebLashemDev&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="Trophy Cabinet" />
+
+<br><br>
+
+<!-- ================= CONTACT HERO ================= -->
+<table width="100%" bgcolor="#0b0f19" style="border-radius: 14px; border: 1px solid #1e293b; padding: 25px;">
+  <tr align="center">
+    <td>
+      <h2 style="color: #ffffff; margin-bottom: 8px;">⚡ Ready to engineer something exceptional?</h2>
+      <p style="color: #94a3b8; font-size: 15px;">Whether it's a full-stack product, architectural consulting, or innovative web development.</p>
+      <br>
+      <a href="https://linkedin.com/in/iheb-lashem">
+        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="mailto:iheblasshem@gmail.com">
+        <img src="https://img.shields.io/badge/Email-Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,31,20,11,6&height=120&section=footer" width="100%" />
 
 </div>
