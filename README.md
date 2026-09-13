@@ -35,103 +35,47 @@
 
 ---
 
-<!-- ================= NEXT-GEN BENTO SPOTLIGHT: ABOUT & LIVE ENGINE ================= -->
+<!-- ================= EXECUTIVE SUMMARY & SYSTEM PROFILE ================= -->
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <!-- LEFT COLUMN: ABOUT ME & PHILOSOPHY CARD -->
-    <td width="52%" valign="top" style="padding-right: 18px;">
-      <table width="100%" bgcolor="#070b14" style="border-radius: 16px; border: 1px solid #1e293b; padding: 22px;">
-        <tr>
-          <td>
-            <div style="display: flex; align-items: center; justify-content: space-between;">
-              <span style="color: #00F2FE; font-size: 13px; font-weight: 700; letter-spacing: 1.5px; text-transform: uppercase;">
-                ◆ EXECUTIVE OVERVIEW
-              </span>
-              &nbsp;&nbsp;
-              <img src="https://img.shields.io/badge/STATUS-ACTIVE-10B981?style=flat-square" />
-            </div>
-            
-            <h2 style="color: #ffffff; margin-top: 14px; margin-bottom: 12px; font-size: 24px;">
-              Crafting Resilient Code & Pixel-Perfect Systems
-            </h2>
-            
-            <p style="color: #94a3b8; font-size: 14px; line-height: 1.7;">
-              I am a <b>Full-Stack Software Engineer</b> dedicated to delivering high-availability platforms, sub-second latency APIs, and smooth, human-centric user experiences. From conceptualizing the system architecture to writing clean, production-ready code — I build software that scales effortlessly.
-            </p>
-            
-            <br>
-
-            <!-- PILLARS CAPSULES -->
-            <table width="100%" border="0" cellpadding="6" cellspacing="0">
-              <tr>
-                <td bgcolor="#0f172a" style="border-radius: 8px; border-left: 3px solid #00F2FE; padding: 8px 12px;">
-                  <span style="color: #00F2FE; font-size: 12px; font-weight: bold;">⚡ ARCHITECTURE</span><br>
-                  <span style="color: #cbd5e1; font-size: 12px;">Modular, maintainable & highly scalable architectures</span>
-                </td>
-              </tr>
-              <tr><td height="6"></td></tr>
-              <tr>
-                <td bgcolor="#0f172a" style="border-radius: 8px; border-left: 3px solid #38BDF8; padding: 8px 12px;">
-                  <span style="color: #38BDF8; font-size: 12px; font-weight: bold;">💎 CRAFTSMANSHIP</span><br>
-                  <span style="color: #cbd5e1; font-size: 12px;">Strict typing, optimized state & zero-bloat codebase</span>
-                </td>
-              </tr>
-              <tr><td height="6"></td></tr>
-              <tr>
-                <td bgcolor="#0f172a" style="border-radius: 8px; border-left: 3px solid #818CF8; padding: 8px 12px;">
-                  <span style="color: #818CF8; font-size: 12px; font-weight: bold;">🌱 CURRENT FOCUS</span><br>
-                  <span style="color: #cbd5e1; font-size: 12px;">Distributed Systems, Microfrontends & Edge Computing</span>
-                </td>
-              </tr>
-            </table>
-
-          </td>
-        </tr>
-      </table>
+    <td width="55%" valign="top" style="padding-right: 20px;">
+      <h3>⚡ &nbsp; Executive Bio</h3>
+      <p>I am a <b>Full-Stack Software Engineer</b> passionate about creating resilient, scalable, and beautifully designed digital systems. My work spans the full spectrum of software development — from crafting intuitive, fluid user interfaces to engineering robust backends and optimized database architectures.</p>
+      <p>I thrive on turning complex business logic into elegant, maintainable code with high test coverage and minimal latency.</p>
+      <br>
+      <b>🎯 Core Pillars:</b> Scalable Architecture • High Performance • Human-Centric UI/UX<br>
+      <b>🌱 Currently Exploring:</b> Distributed Systems, Microfrontends & Edge Compute.
     </td>
-
-    <!-- RIGHT COLUMN: INTERACTIVE CYBER TERMINAL -->
-    <td width="48%" valign="top">
-      <table width="100%" bgcolor="#070b14" style="border-radius: 16px; border: 1px solid #1e293b; overflow: hidden; box-shadow: 0 12px 40px rgba(0, 242, 254, 0.08);">
-        <!-- MAC OS TITLE BAR -->
-        <tr bgcolor="#0b1120">
-          <td style="padding: 12px 18px; border-bottom: 1px solid #1e293b;">
-            <span style="color: #ef4444; font-size: 14px;">●</span>&nbsp;
-            <span style="color: #f59e0b; font-size: 14px;">●</span>&nbsp;
-            <span style="color: #10b981; font-size: 14px;">●</span>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <code style="color: #64748b; font-size: 12px;">iheb@cloud-instance: ~/runtime/engineer.ts</code>
-          </td>
-        </tr>
-        
-        <!-- CODE BODY -->
-        <tr>
-          <td style="padding: 20px 22px;">
-<pre style="color: #cbd5e1; font-size: 13.5px; line-height: 1.6; margin: 0; background: transparent; border: none; font-family: 'Fira Code', 'Courier New', monospace;">
-<span style="color: #c084fc;">interface</span> <span style="color: #67e8f9;">Engineer</span> {
-  name: <span style="color: #86efac;">string</span>;
-  role: <span style="color: #86efac;">string</span>;
-  stack: <span style="color: #86efac;">string[]</span>;
-  delivering: <span style="color: #86efac;">string</span>;
-}
-
-<span style="color: #38bdf8;">export const</span> <span style="color: #fde047;">ihebLashem</span>: <span style="color: #67e8f9;">Engineer</span> = {
-  name: <span style="color: #86efac;">"Iheb Lashem"</span>,
-  role: <span style="color: #86efac;">"Full Stack Software Engineer"</span>,
-  stack: [
-    <span style="color: #fde047;">"React"</span>, <span style="color: #fde047;">"Next.js"</span>, <span style="color: #fde047;">"Node.js"</span>,
-    <span style="color: #fde047;">"TypeScript"</span>, <span style="color: #fde047;">"MongoDB"</span>, <span style="color: #fde047;">"MySQL"</span>
-  ],
-  delivering: <span style="color: #86efac;">"High-Availability Cloud Systems 🚀"</span>
+    <td width="45%" valign="top">
+      <div align="center">
+        <!-- MACOS TERMINAL MOCKUP -->
+        <table width="100%" bgcolor="#070b14" style="border-radius: 12px; border: 1px solid #1e293b; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+          <tr bgcolor="#0f172a">
+            <td style="padding: 10px 14px;">
+              <span style="color: #ff5f56; font-size: 15px;">●</span>&nbsp;
+              <span style="color: #ffbd2e; font-size: 15px;">●</span>&nbsp;
+              <span style="color: #27c93f; font-size: 15px;">●</span>
+              &nbsp;&nbsp;<code style="color: #64748b; font-size: 12px;">iheb@lashem-system ~ status</code>
+            </td>
+          </tr>
+          <tr>
+            <td style="padding: 16px;">
+<pre style="color: #cbd5e1; font-size: 13px; line-height: 1.5; margin: 0; background: transparent; border: none;">
+<span style="color: #38bdf8;">const</span> engineer = {
+  name: <span style="color: #a7f3d0;">"Iheb Lashem"</span>,
+  title: <span style="color: #a7f3d0;">"Full Stack Engineer"</span>,
+  code: [<span style="color: #fde047;">"TypeScript"</span>, <span style="color: #fde047;">"JavaScript"</span>],
+  frontend: [<span style="color: #67e8f9;">"React"</span>, <span style="color: #67e8f9;">"Next.js"</span>, <span style="color: #67e8f9;">"Tailwind"</span>],
+  backend: [<span style="color: #86efac;">"Node.js"</span>, <span style="color: #86efac;">"Express"</span>, <span style="color: #86efac;">"REST"</span>],
+  persistence: [<span style="color: #c084fc;">"MongoDB"</span>, <span style="color: #c084fc;">"MySQL"</span>],
+  status: <span style="color: #38bdf8;">"Open to Impactful Projects ⚡"</span>
 };
-
-<span style="color: #64748b;">// System status:</span>
-<span style="color: #38bdf8;">console</span>.<span style="color: #60a5fa;">log</span>(<span style="color: #86efac;">"⚡ Ready for High-Impact Roles!"</span>);
 </pre>
-          </td>
-        </tr>
-      </table>
+            </td>
+          </tr>
+        </table>
+      </div>
     </td>
   </tr>
 </table>
@@ -144,14 +88,14 @@
 
 <div align="center">
 
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,12,31&height=40&section=header&text=%E2%97%86%20TECHNICAL%20ECOSYSTEM%20%26%20STACK%20%E2%97%86&fontSize=16&fontColor=00F2FE" width="100%" />
-<br><br>
+## 🛠️ &nbsp; Technical Ecosystem & Engineering Stack
 
-<table width="100%" border="0" cellpadding="12" cellspacing="0">
+<br>
+
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td width="33%" align="center" bgcolor="#070b14" style="border-radius: 14px; border: 1px solid #1e293b;">
-      <h4 style="color: #00F2FE; margin-top: 5px; font-size: 15px;">🎨 FRONTEND & CLIENT-SIDE</h4>
+    <td width="33%" align="center" bgcolor="#0b1120" style="border-radius: 12px; border: 1px solid #1e293b;">
+      <h4 style="color: #38bdf8; margin-top: 5px;">🎨 FRONTEND & UI/UX</h4>
       <br>
       <a href="#"><img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript&theme=dark" /></a>
       <br><br>
@@ -159,8 +103,8 @@
       <br><br>
       <p style="color: #94a3b8; font-size: 13px;">React.js • Next.js • TypeScript<br>Tailwind CSS • Responsive Layouts</p>
     </td>
-    <td width="33%" align="center" bgcolor="#070b14" style="border-radius: 14px; border: 1px solid #1e293b;">
-      <h4 style="color: #00F2FE; margin-top: 5px; font-size: 15px;">⚙️ BACKEND & APIS</h4>
+    <td width="33%" align="center" bgcolor="#0b1120" style="border-radius: 12px; border: 1px solid #1e293b;">
+      <h4 style="color: #38bdf8; margin-top: 5px;">⚙️ BACKEND & APIS</h4>
       <br>
       <a href="#"><img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma&theme=dark" /></a>
       <br><br>
@@ -168,8 +112,8 @@
       <br><br>
       <p style="color: #94a3b8; font-size: 13px;">Node.js • Express • RESTful APIs<br>Authentication • Microservices</p>
     </td>
-    <td width="33%" align="center" bgcolor="#070b14" style="border-radius: 14px; border: 1px solid #1e293b;">
-      <h4 style="color: #00F2FE; margin-top: 5px; font-size: 15px;">🗄️ DATA & TOOLING</h4>
+    <td width="33%" align="center" bgcolor="#0b1120" style="border-radius: 12px; border: 1px solid #1e293b;">
+      <h4 style="color: #38bdf8; margin-top: 5px;">🗄️ DATA & TOOLING</h4>
       <br>
       <a href="#"><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker&theme=dark" /></a>
       <br><br>
@@ -186,14 +130,47 @@
 
 ---
 
+<!-- ================= SYSTEM METRICS DASHBOARD ================= -->
+
+<div align="center">
+
+## 📊 &nbsp; Telemetry & GitHub Performance
+
+<br>
+
+<table border="0" cellpadding="0" cellspacing="12">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=IhebLashemDev&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F2FE&icon_color=38bdf8&text_color=94a3b8&bg_color=070b14" width="415" alt="Stats" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebLashemDev&theme=tokyonight&hide_border=true&background=070b14&ring=00F2FE&fire=38bdf8&currStreakLabel=00F2FE&stroke=00F2FE" width="415" alt="Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhebLashemDev&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=94a3b8&bg_color=070b14" width="415" alt="Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=IhebLashemDev&theme=tokyo-night&hide_border=true&bg_color=070b14&color=00F2FE&line=38bdf8&point=00F2FE" width="415" alt="Activity" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
 <!-- ================= CONNECT & COLLABORATE HERO ================= -->
 
 <div align="center">
 
-<table width="100%" bgcolor="#070b14" style="border-radius: 16px; border: 1px solid #1e293b; padding: 28px;">
+<table width="100%" bgcolor="#070b14" style="border-radius: 14px; border: 1px solid #1e293b; padding: 25px;">
   <tr align="center">
     <td>
-      <h2 style="color: #ffffff; margin-bottom: 6px; font-size: 24px;">⚡ Let’s Build Something Exceptional</h2>
+      <h2 style="color: #ffffff; margin-bottom: 6px;">⚡ Let’s Engineer the Future Together</h2>
       <p style="color: #94a3b8; font-size: 15px; margin-bottom: 22px;">Have an ambitious project, an engineering role, or a technical inquiry? My inbox is always open.</p>
       <a href="https://linkedin.com/in/iheb-lashem" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="38" />
