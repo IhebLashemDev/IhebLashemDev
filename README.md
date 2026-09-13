@@ -1,145 +1,295 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=IHEB%20LASHEM&fontSize=64&fontColor=ffffff&fontAlignY=43&desc=FULL-STACK%20DEVELOPER%20%7C%20WEB%20APPLICATIONS&descAlignY=67&descSize=15&descColor=58a6ff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0b0f14&height=230&section=header&text=IHEB%20LASHEM&fontSize=66&fontColor=ffffff&fontAlignY=42&desc=FULL-STACK%20DEVELOPER&descAlignY=67&descSize=17&descColor=58a6ff" width="100%" />
 
 <br>
 
 <a href="https://linkedin.com/in/iheb-lashem">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-161b22?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" />
 </a>
 &nbsp;
 <a href="mailto:iheblasshem@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-161b22?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+<img src="https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" />
 </a>
 &nbsp;
-<a href="https://github.com/IhebLashemDev">
-<img src="https://img.shields.io/badge/GitHub-IhebLashemDev-161b22?style=for-the-badge&logo=github&logoColor=ffffff" />
+<a href="https://github.com/IhebLashemDev?tab=repositories">
+<img src="https://img.shields.io/badge/GitHub-Projects-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=Building+modern+full-stack+applications;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL;From+idea+to+production" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&height=42&lines=Building+modern+full-stack+applications;Turning+ideas+into+real+products;React+%7C+Next.js+%7C+Node.js+%7C+PostgreSQL" />
 
 </div>
 
 <br>
 
----
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-## About Me
+<!-- ABOUT -->
 
-I'm a **Full-Stack Developer** focused on building modern web applications from frontend to backend.
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-I enjoy turning ideas into complete products — designing clean interfaces, building APIs, modeling databases, implementing authentication and connecting everything into a reliable application.
+<div align="center">
+
+## ✦ About Me
+
+</div>
+
+<br>
+
+<table width="100%" border="0">
+<tr>
+
+<td width="58%" valign="top">
+
+### I build things that actually work.
+
+I'm a **Full-Stack Developer** focused on building modern web applications with clean interfaces, solid backend architecture and reliable data systems.
+
+I enjoy taking an idea from **concept → interface → API → database → deployment** and turning it into a complete product.
+
+<br>
+
+<table>
+<tr>
+<td>
+
+**⌁ Focus**
+
+Full-Stack Web Development
+
+</td>
+<td>
+
+**⌁ Based in**
+
+Tunisia 🇹🇳
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**⌁ Main Stack**
+
+React · Next.js · Node.js
+
+</td>
+<td>
+
+**⌁ Databases**
+
+PostgreSQL · MongoDB
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="42%" valign="top">
 
 ```js
 const iheb = {
   role: "Full-Stack Developer",
 
-  frontend: [
-    "React",
-    "Next.js",
-    "JavaScript",
-    "TypeScript",
-    "Tailwind CSS"
-  ],
-
-  backend: [
-    "Node.js",
-    "Express",
+  builds: [
+    "Web Applications",
+    "E-Commerce",
     "REST APIs"
   ],
 
-  databases: [
-    "PostgreSQL",
-    "MongoDB",
-    "MySQL"
-  ],
+  frontend: ["React", "Next.js"],
+  backend: ["Node.js", "Express"],
+  database: ["PostgreSQL", "MongoDB"],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "Docker",
-    "Postman",
-    "Figma"
-  ],
-
-  currentlyBuilding: "Real-world web applications"
+  mindset: "Build. Learn. Improve."
 };
 ```
 
+</td>
+
+</tr>
+</table>
+
+<br>
+
 ---
 
-## Tech Stack
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- STACK -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### Frontend
+## ✦ Technology Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind" />
+<br>
 
-<br><br>
-
-### Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql,prisma,redis" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,nodejs,express,postgres,mongodb,mysql,prisma,redis,docker,git,github,postman,figma&perline=8&theme=dark" />
 
 <br><br>
-
-### Tools & DevOps
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vercel,linux" />
-
-</div>
-
----
-
-## Featured Projects
 
 <table>
 <tr>
 
+<td align="center" width="25%">
+
+### Frontend
+
+`React`
+`Next.js`
+`JavaScript`
+`TypeScript`
+`Tailwind CSS`
+
+</td>
+
+<td align="center" width="25%">
+
+### Backend
+
+`Node.js`
+`Express`
+`REST APIs`
+`JWT`
+`Prisma`
+
+</td>
+
+<td align="center" width="25%">
+
+### Database
+
+`PostgreSQL`
+`MongoDB`
+`MySQL`
+`Redis`
+
+</td>
+
+<td align="center" width="25%">
+
+### Tools
+
+`Git`
+`Docker`
+`Postman`
+`Figma`
+`Vercel`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- PROJECTS -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ✦ Selected Projects
+
+<br>
+
+<p>
+A few applications I've built across e-commerce, marketplaces,<br>
+service platforms and education.
+</p>
+
+</div>
+
+<br>
+
+<table width="100%" border="0">
+
+<tr>
+
 <td width="50%" valign="top">
 
-### 🛍️ LocaStore
+<h3>01 · LocaStore</h3>
 
-A full-stack marketplace platform built around products, custom orders and service bookings.
+<b>Marketplace & Services Platform</b>
 
-**Stack**
+<br><br>
 
-`React` `Node.js` `Express` `MongoDB`
+A full-stack platform combining product sales, custom products and service bookings in one application.
 
-**Features**
+<br><br>
 
-* Multi-role authentication
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
+
+<br><br>
+
+`Multi-Role` `JWT` `REST API` `AI`
+
+<br><br>
+
+<b>What I built</b>
+
+* Role-based authentication
 * Product management
 * Custom product requests
 * Service booking
 * Admin dashboard
 * AI-powered features
-* Responsive UI
+
+<br>
+
+<a href="https://github.com/IhebLashemDev">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌿 Anbara Parfums
+<h3>02 · Anbara Parfums</h3>
 
-A modern e-commerce experience for a niche perfume brand.
+<b>Premium E-Commerce Experience</b>
 
-**Stack**
+<br><br>
 
-`Next.js` `JavaScript` `Redis`
+A modern perfume store focused on a clean shopping experience, simple checkout and a premium visual identity.
 
-**Features**
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=nextjs,js,redis,vercel&theme=dark" />
+
+<br><br>
+
+`E-Commerce` `Cart` `Checkout` `Admin`
+
+<br><br>
+
+<b>What I built</b>
 
 * Product catalog
 * Shopping cart
-* Checkout
+* Checkout flow
 * Cash on delivery
 * Admin dashboard
-* Responsive design
+* Responsive UI
 * Production deployment
+
+<br>
+
+<a href="https://github.com/IhebLashemDev">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
 
@@ -149,45 +299,79 @@ A modern e-commerce experience for a niche perfume brand.
 
 <td width="50%" valign="top">
 
-### 🧰 ProConnect
+<h3>03 · ProConnect</h3>
 
-A platform connecting customers with professional service providers.
+<b>Professional Services Platform</b>
 
-**Stack**
+<br><br>
 
-`Node.js` `TypeScript` `Prisma` `PostgreSQL`
+A structured platform connecting customers with professional workers through role-based workflows.
 
-**Architecture**
+<br><br>
 
-`REST API` `JWT` `Role-Based Access`
+<img src="https://skillicons.dev/icons?i=nodejs,typescript,prisma,postgres&theme=dark" />
 
-**Roles**
+<br><br>
 
-`ADMIN` `WORKER` `CUSTOMER`
+`TypeScript` `Prisma` `PostgreSQL` `RBAC`
+
+<br><br>
+
+<b>Architecture</b>
+
+* REST API
+* JWT authentication
+* Role-based authorization
+* Customer / Worker workflows
+* PostgreSQL data layer
+
+<br>
+
+<a href="https://github.com/IhebLashemDev">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📚 Educational Platform
+<h3>04 · Educational Platform</h3>
 
-A web platform designed to support primary-school learning through interactive content and AI-assisted features.
+<b>Interactive Learning Platform</b>
 
-**Stack**
+<br><br>
 
-`Next.js` `Fastify` `PostgreSQL` `Prisma`
+A learning platform designed around students, teachers and parents with AI-assisted educational features.
 
-**Focus**
+<br><br>
 
-* Interactive learning
+<img src="https://skillicons.dev/icons?i=nextjs,fastify,postgres,prisma&theme=dark" />
+
+<br><br>
+
+`Education` `AI` `Dashboards` `Authentication`
+
+<br><br>
+
+<b>Core Features</b>
+
+* Student experience
 * Teacher dashboard
 * Parent dashboard
-* Student experience
+* Interactive learning
 * AI assistant
+* Role-based access
+
+<br>
+
+<a href="https://github.com/IhebLashemDev">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=0D1117" />
+</a>
 
 </td>
 
 </tr>
+
 </table>
 
 <br>
@@ -195,101 +379,228 @@ A web platform designed to support primary-school learning through interactive c
 <div align="center">
 
 <a href="https://github.com/IhebLashemDev?tab=repositories">
-<img src="https://img.shields.io/badge/View_All_Projects-161b22?style=for-the-badge&logo=github&logoColor=58a6ff" />
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" />
 </a>
 
 </div>
 
+<br>
+
 ---
 
-## What I Build
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<table>
+<!-- CAPABILITIES -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ✦ What I Work With
+
+<br>
+
+<table width="100%">
 <tr>
 
 <td align="center" width="25%">
 
-### 🎨
+### ◈
 
-**Modern UI**
+**Interfaces**
 
-Clean, responsive and user-focused interfaces.
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚙️
-
-**Backend Systems**
-
-REST APIs, authentication and business logic.
+Responsive interfaces, component systems and modern UX.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🗄️
+### ◉
+
+**APIs**
+
+REST APIs, authentication, authorization and business logic.
+
+</td>
+
+<td align="center" width="25%">
+
+### ◇
 
 **Data**
 
-Relational and NoSQL database architectures.
+Relational & NoSQL databases with structured data models.
 
 </td>
 
 <td align="center" width="25%">
 
-### 🚀
+### ⬡
 
-**Deployment**
+**Delivery**
 
-Taking applications from local development to production.
+Git, Docker, deployment and production-ready workflows.
 
 </td>
 
 </tr>
 </table>
 
+</div>
+
+<br>
+
 ---
 
-## GitHub Activity
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<!-- GITHUB -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IhebLashemDev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" height="170" />
+## ✦ GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhebLashemDev&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&icon_color=58a6ff" height="170" />
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=IhebLashemDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" height="175" />
+
+  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IhebLashemDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" height="175" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IhebLashemDev&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="700" />
+<img src="https://streak-stats.demolab.com?user=IhebLashemDev&hide_border=true&background=0D1117&ring=58A6FF&fire=A78BFA&currStreakLabel=FFFFFF&sideLabels=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681" width="700" />
 
 </div>
 
+<br>
+
 ---
 
-## Currently
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-```text
-→ Building full-stack web applications
-→ Improving backend architecture & database design
-→ Working with React / Next.js / Node.js
-→ Exploring AI integration in web applications
-→ Open to internships, freelance projects & junior developer opportunities
-```
+<!-- NOW -->
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## ✦ What I'm Doing Now
+
+</div>
+
+<br>
+
+<table width="100%">
+<tr>
+
+<td width="20%" align="center">
+
+**01**
+
+<br>
+
+BUILDING
+
+</td>
+
+<td width="80%">
+
+Full-stack web applications with **React, Next.js and Node.js**.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+**02**
+
+<br>
+
+IMPROVING
+
+</td>
+
+<td>
+
+Backend architecture, database design and API development.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+**03**
+
+<br>
+
+EXPLORING
+
+</td>
+
+<td>
+
+Practical **AI integrations** inside real-world web applications.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+**04**
+
+<br>
+
+OPEN TO
+
+</td>
+
+<td>
+
+Internships, freelance projects and junior full-stack opportunities.
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+## Let's build something useful.
+
+<br>
 
 <a href="mailto:iheblasshem@gmail.com">
-<img src="https://img.shields.io/badge/START_A_PROJECT-58a6ff?style=for-the-badge&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-58A6FF?style=for-the-badge&logo=gmail&logoColor=0D1117" />
+</a>
+
+ 
+
+<a href="https://linkedin.com/in/iheb-lashem">
+<img src="https://img.shields.io/badge/LINKEDIN-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0b0f14&height=100&section=footer" width="100%" />
+
+<sub>Built with curiosity, code and too much coffee.</sub>
 
 </div>
